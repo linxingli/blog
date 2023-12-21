@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T08:40:34.733Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JMCPYO9O-ZDg_P5UQw3g" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T08:59:39.639Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yKlgsRKNQdvaEsFpf5mQ" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -43,7 +43,7 @@
         <mxCell id="43ogsUvfL_x73OrtT0J1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="43ogsUvfL_x73OrtT0J1-0" target="43ogsUvfL_x73OrtT0J1-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="43ogsUvfL_x73OrtT0J1-0" value="&lt;h5&gt;&lt;font size=&quot;1&quot; color=&quot;#494949&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;去查看工单模板配置&lt;br&gt;中的节点表单Id&lt;br&gt;是否一致？&lt;/span&gt;&lt;/font&gt;&lt;/h5&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="43ogsUvfL_x73OrtT0J1-0" value="&lt;h5&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;去查看工单模板配置&lt;br&gt;中的节点表单Id&lt;br&gt;是否一致？&lt;/span&gt;&lt;/font&gt;&lt;/h5&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="453" y="190" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="43ogsUvfL_x73OrtT0J1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="43ogsUvfL_x73OrtT0J1-0" target="43ogsUvfL_x73OrtT0J1-0">
